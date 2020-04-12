@@ -1,0 +1,12 @@
+Arrow cluster icon by Lorc under CC BY 3.0 at game-icons.net
+Spear hook icon by Lorc under CC BY 3.0 at game-icons.net
+Zigzag icon by Delapouite under CC BY 3.0 at game-icons.net
+Improvement icon by Delapouite under CC BY 3.0 at game-icons.net
+Nation, unit, and improvement concepts by Cavenir.
+
+-----
+
+CHANGELOG
+
+v1.0
+- Full release

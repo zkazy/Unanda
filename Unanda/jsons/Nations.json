@@ -1,0 +1,37 @@
+[
+
+	{
+		"name":"Unanda",
+		"leaderName":"The Great Unifier Uordus",
+		"adjective":["Unandai"],
+		"startBias":["Desert","Flood plains","Avoid Coast","Avoid Forest","Avoid Jungle"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "Oh Great Unifier Uordus, ruler of the lands between. You guide your people into great prosperity, with your farm that multiply hands and feed mouths, to the steady and sharp spears and arrows, ready to defend Uordus. Oh you, progenitor of fertility, you bring your friends to treasures while you bring your enemies to ruin.",
+		"startIntroPart2": "Oh Great Uordus! The masses call for your name. Will the Hilu and Alu flow with your presence? Will the skies shine on your productive farms and busling cities? Will you stand the test of time?",
+		
+		"declaringWar":"The Ai calls us to war, so prepare to die.",
+		"attacked":"Well, well, well. Let us see if you could stand the might of our sword and shield.",
+		"defeated":"Sigh... It is okay, it is okay. Just remember that Hilu and Alu still flows without us.",
+		"introduction":"O-ho! A foreigner! You are very welcome at my prosperous empire.",
+		
+		"neutralHello":"Welcome. What is your concern?",
+		"neutralLetsHearIt":["Mmm.","Okay.","Go on."],
+		"neutralNo":["Hahahaha, No.","I am sorry, but this is not fair!","Nope."],
+		"neutralYes":["Prosperous!","Splendid!","What an agreeable statement, my friend."],
+
+		"hateHello":"What is it?!?",
+		"hateLetsHearIt":["Do not bore me with your nonsense.","Continue.","Cut to the chase. What is it?"],
+		"hateNo":["Absolutely not!","What else?!","Prepoposterous!"],
+		"hateYes":["Just becuase I agreed to this, it doesn't mean that we are friends.","Yeah, go on.","Sigh, I accept your offer."],
+		
+		"afterPeace":"I will promise to the Ai that I will have my revenge.",
+		"tradeRequest":"Could you care to share some blessings with me?",
+				
+		"outerColor":[135, 206, 235],
+		"innerColor":[65, 105, 225],
+		"uniqueName":"Mesopotamian Prosperity",
+		"unique":"POPULATION_GROWTH",
+		"cities":["Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
+	}
+]
