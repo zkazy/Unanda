@@ -10,3 +10,6 @@ CHANGELOG
 
 v1.0
 - Full release
+
+v1.1
+- Added ATLAS files into the game.
