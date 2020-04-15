@@ -1,5 +1,5 @@
-# Changelog for v1.1
-- Added ATLAS files in order to make the icons appear on mobile.
+# Changelog for v1.2
+- Added sprites and darkened improvement icons.
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
