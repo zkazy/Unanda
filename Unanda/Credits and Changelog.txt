@@ -2,7 +2,9 @@ Arrow cluster icon by Lorc under CC BY 3.0 at game-icons.net
 Spear hook icon by Lorc under CC BY 3.0 at game-icons.net
 Zigzag icon by Delapouite under CC BY 3.0 at game-icons.net
 Improvement icon by Delapouite under CC BY 3.0 at game-icons.net
+Unit and improvement sprites by GeneralWadaling.
 Nation, unit, and improvement concepts by Cavenir.
+Additional help and advice by Red11 and u-ndefined.
 
 -----
 
@@ -13,3 +15,6 @@ v1.0
 
 v1.1
 - Added ATLAS files into the game.
+
+v1.2
+- Darkened icons and added sprites into the game (by GeneralWaldaling).
