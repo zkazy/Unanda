@@ -1,5 +1,5 @@
-# Changelog for v1.2
-- Added sprites and darkened improvement icons.
+# Changelog for v1.2.1
+- Balanced stats of the unique units.
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
@@ -8,7 +8,7 @@ Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth
 > The nation's citizens multiplied and prospered due to the waters of the rivers Tigris and Euphrates, coupled with good weather and agricultural practices.
 
 ***Unique Improvement: Riverside Mud Farm***
-> The aforementioned good agricultural practices came in the form of these farm, armed for crop cycles and basic irrigation systems.
+> The aforementioned good agricultural practices came in the form of these farms, armed with crop cycles and basic irrigation systems.
 
 ***Unique Unit: Riverside Warrior** (Replaces Warrior)*  
 > Becuase of its population and size, there a lot of warriors ready to defend for Unanda.  
