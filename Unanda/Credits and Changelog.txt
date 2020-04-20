@@ -18,3 +18,6 @@ v1.1
 
 v1.2
 - Darkened icons and added sprites into the game (by GeneralWaldaling).
+
+v1.2.1
+- Balance fixes for units.
