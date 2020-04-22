@@ -21,3 +21,6 @@ v1.2
 
 v1.2.1
 - Balance fixes for units.
+
+v1.2.2
+- Adjusted introduction for the nation.
