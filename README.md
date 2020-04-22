@@ -1,5 +1,5 @@
-# Changelog for v1.2.1
-- Balanced stats of the unique units.
+# Changelog for v1.2.2
+- Adjusted nation intro.
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
