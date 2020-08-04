@@ -1,11 +1,11 @@
-# Changelog for v1.2.2
-- Adjusted nation intro.
+# Changelog for v1.3.0
+- Removed 'default' unique ability. Custom one soon.
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
 
-***Unique Ability: Mesopotamian Prosperity** (Population Growth)*
-> The nation's citizens multiplied and prospered due to the waters of the rivers Tigris and Euphrates, coupled with good weather and agricultural practices.
+~~***Unique Ability: Mesopotamian Prosperity***
+> The nation's citizens multiplied and prospered due to the waters of the rivers Tigris and Euphrates, coupled with good weather and agricultural practices.~~ (COMING SOON)
 
 ***Unique Improvement: Riverside Mud Farm***
 > The aforementioned good agricultural practices came in the form of these farms, armed with crop cycles and basic irrigation systems.
