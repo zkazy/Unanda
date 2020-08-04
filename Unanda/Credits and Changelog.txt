@@ -24,3 +24,7 @@ v1.2.1
 
 v1.2.2
 - Adjusted introduction for the nation.
+
+v1.3.0
+- Removed 'default' unique ability. Custom one soon.
+
