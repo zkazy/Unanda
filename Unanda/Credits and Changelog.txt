@@ -28,3 +28,6 @@ v1.2.2
 v1.3.0
 - Removed 'default' unique ability. Custom one soon.
 
+v1.4.0
+- Added custom ability that grants +2 Food, +1 Gold, and +1 Production on Flood Plains tiles.
+
