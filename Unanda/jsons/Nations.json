@@ -32,7 +32,7 @@
 		"innerColor":[65, 105, 225],
 		
 		"uniqueName": "Mesopotamian Prosperity",
-		"uniques": ["[+2 Food] from [Flood PLains] tiles", "[+1 Production] from [Flood Plains] tiles", "[+2 Gold] from [Flood Plains] tiles"],
+		"uniques": ["[+2 Food] from [Flood Plains] tiles", "[+1 Production] from [Flood Plains] tiles", "[+2 Gold] from [Flood Plains] tiles"],
 	
 		"cities":["Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
 	}
