@@ -1,5 +1,5 @@
-# Changelog for v1.4.0
-- Added custom ability that grants +2 Food, +1 Gold, and +1 Production on Flood Plains tiles.
+# Changelog for v1.5.0
+- Rearranges files in order to ensure that it can be installed directly from the game.
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
@@ -17,10 +17,6 @@ Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth
 > Coupled with the Riverside Warrior, they combine to make a formidable force that dominated the early Bronze Age world.  
 
 ## Roadmap
-
-- Unique great persons.
-
-- More balance fixes.
 
 - Unique religion (if the G&K update was released).
 
