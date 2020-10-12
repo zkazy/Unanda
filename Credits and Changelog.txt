@@ -31,3 +31,5 @@ v1.3.0
 v1.4.0
 - Added custom ability that grants +2 Food, +1 Gold, and +1 Production on Flood Plains tiles.
 
+v1.5.0
+Rearranges files in order to ensure that it can be installed directly from the game.
