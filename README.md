@@ -1,5 +1,6 @@
-# Changelog for v1.5.0
-- Rearranges files in order to ensure that it can be installed directly from the game.
+# Changelog for v1.5.1
+- Changed the syntax of the Unandai national ability.
+
 
 # Unanda
 Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth and legend.
