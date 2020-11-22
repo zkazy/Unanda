@@ -21,5 +21,5 @@ Play as the populous Mesopotamian nation, led by Uordus, a ruler shouded in myth
 
 - Unique religion (if the G&K update was released).
 
-If you have any concerns feel free to contact me on Discord (Cavenir#6636). Thank you.
+If you have any concerns feel free to contact me on Discord (Cavenir#6636), or you could reach out using the links provided on [my website](https://secession-cycles.carrd.co/). Thank you.
 
