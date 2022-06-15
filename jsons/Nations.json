@@ -34,7 +34,7 @@
 
 "uniqueName": "The Chosen",
 "uniqueText": "Breathen of the gods.",
-"uniques":  ["[-33]% maintenance costs for [All] units", "[+300]% [Food] from City-States", "[+500]% [Faith] from City-States", "[+500]% [Gold] [in all cities]"],
+"uniques":  ["[+300]% [Food] [in all cities]", "[+500]% [Faith] [in all cities]", "[+500]% [Gold] [in all cities]"],
 
 
 "cities":["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma","Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
