@@ -2,12 +2,12 @@
 	{
 		"name":"Riverside Mud Farm",
 		"uniqueTo":"Unanda",
-		"food":2,
-		"production":1,
-		"turnsToBuild":5,
+		"food":10,
+		"production":5,
+		"turnsToBuild":1,
 		"techRequired":"Agriculture",
 		"improvingTech":"Fertilizer",
-		"improvingTechStats":{"food":1, "production":1},
+		"improvingTechStats":{"food":10, "production":5},
 		"terrainsCanBeBuiltOn":["Desert","Flood plains"]
 	}
 ]
